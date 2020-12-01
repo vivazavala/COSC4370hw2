@@ -1,28 +1,3 @@
-/*******************************************************
- * Homework 2: OpenGL                                  *
- *-----------------------------------------------------*
- * First, you should fill in problem1(), problem2(),   *
- * and problem3() as instructed in the written part of *
- * the problem set.  Then, express your creativity     *
- * with problem4()!                                    *
- *                                                     *
- * Note: you will only need to add/modify code where   *
- * it says "TODO".                                     *
- *                                                     *
- * The left mouse button rotates, the right mouse      *
- * button zooms, and the keyboard controls which       *
- * problem to display.                                 *
- *                                                     *
- * For Linux/OS X:                                     *
- * To compile your program, just type "make" at the    *
- * command line.  Typing "make clean" will remove all  *
- * computer-generated files.  Run by typing "./hw2"    *
- *                                                     *
- * For Visual Studio:                                  *
- * You can create a project with this main.cpp and     *
- * build and run the executable as you normally would. *
- *******************************************************/
-
 #include <iostream>
 #include <cmath>
 #include <cstdio>
